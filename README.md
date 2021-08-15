@@ -5,8 +5,6 @@ Done methodology. It's similar in spirit to the [todo.txt](http://todotxt.org/)
 system, but it uses one file per project, instead of one line per action. This
 allows you to easily group notes alongside projects and actions.
 
-This is not an official Google product.
-
 ## Dependencies
 
 You will probably need a GNU userspace. In particular, you definitely need
